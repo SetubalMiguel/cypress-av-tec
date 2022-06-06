@@ -19,3 +19,6 @@ Execute os comandos abaixo para instalar das dependências do projeto e execuç�
 npm install
 npx cypress run
 ```
+## 📚 Bibliotecas usadas
+[Chance](https://chancejs.com/) v1.1 - gerador de dados aleatórios;
+[Cypress-Ifrane](https://www.npmjs.com/package/cypress-iframe) v1.0 - testar Ifrane em Cypress requer código personalizado, esse pacote adiciona suporte a iframe ao Cypress. 
