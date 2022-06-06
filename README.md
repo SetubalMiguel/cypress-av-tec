@@ -9,12 +9,13 @@
 
 ## 👨🏻‍💻 Como executar o projeto
 
-[Node.js](https://nodejs.org/) v16 ou superior para executar.
+1 - Ter instalado o [Node.js](https://nodejs.org/) v16 ou superior para executar;
+
+2 - Clonar o repositório;
 
 Execute os comandos abaixo para instalar das dependências do projeto e execução dos testes:
 
 ```sh
-cd vdt-season1-marvel-api
-npm i
+npm install
 npx cypress run
 ```
