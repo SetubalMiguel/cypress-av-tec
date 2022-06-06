@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/SetubalMiguel/cypress-av-tec#readme",
   "devDependencies": {
-    "cypress": "^9.7.0"
+    "chance": "^1.1.8",
+    "cypress": "^9.7.0",
+    "cypress-iframe": "^1.0.1"
   }
 }
