@@ -1,0 +1,26 @@
+{
+  "name": "cypress-automacao-webjump",
+  "version": "1.0.0",
+  "description": "avaliação - webjump",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SetubalMiguel/cypress-av-tec.git"
+  },
+  "keywords": [
+    "cypress",
+    "nodejs"
+  ],
+  "author": "Miguel Setúbal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SetubalMiguel/cypress-av-tec/issues"
+  },
+  "homepage": "https://github.com/SetubalMiguel/cypress-av-tec#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
